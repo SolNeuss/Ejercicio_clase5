@@ -1,2 +1,6 @@
 Mi nombre es Sol Neuss y estoy modificando el archivo a1
+<<<<<<< HEAD
 Estoy de nuevo modificando el archivo a1 como participante a
+=======
+estoy modificando como participante B
+>>>>>>> f8ae7b616b8749fef0303fc31fa68cead073d7cc
